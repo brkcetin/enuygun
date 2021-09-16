@@ -11,7 +11,7 @@
 <li>Programı çalıştırmak için cmd kullanarak enuygun.robot dosyasının dizinine gidiniz. Dizine indikten sonra <strong>robot enuygun.robot</strong> komutunu girerek programı çalıştırabilirsiniz.</li>
 </ol>
 
-## Kullanılanlar
+## Kullanılan teknolojiler
 <ul>
  <li>Robot Framework</li>
  
